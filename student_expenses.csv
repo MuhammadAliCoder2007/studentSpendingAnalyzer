@@ -20,7 +20,7 @@ date,category,item,amount,payment_method
 2026-05-10,Food,Groceries,58.20,Debit
 2026-05-10,Personal,Skincare,22.99,Debit
 2026-05-11,Food,Burger,14.25,Debit
-2026-05-11,School,Textbook,65.00,CreditF
+2026-05-11,School,Textbook,65.00,Credit
 2026-05-12,Entertainment,Gaming,24.99,Credit
 2026-05-12,Food,Coffee,5.00,Cash
 2026-05-13,Transport,Gas,30.00,Debit
