@@ -1,0 +1,61 @@
+date,category,item,amount,payment_method
+2026-05-01,Food,Coffee,4.50,Debit
+2026-05-01,Transport,Bus Fare,3.75,Presto
+2026-05-02,Food,Shawarma,11.99,Cash
+2026-05-02,Entertainment,Spotify,11.99,Credit
+2026-05-03,School,Notebook,6.50,Debit
+2026-05-03,Food,Burger,13.49,Debit
+2026-05-04,Food,Groceries,42.30,Debit
+2026-05-04,Transport,Gas,25.00,Debit
+2026-05-05,Food,Coffee,5.20,Cash
+2026-05-05,Personal,Haircut,30.00,Debit
+2026-05-06,Entertainment,Movie Ticket,18.00,Credit
+2026-05-06,Food,Pizza,15.99,Debit
+2026-05-07,School,Pen Pack,4.99,Cash
+2026-05-07,Transport,Uber,17.50,Credit
+2026-05-08,Food,Shawarma,12.50,Debit
+2026-05-08,Entertainment,Netflix,16.99,Credit
+2026-05-09,Food,Coffee,4.75,Cash
+2026-05-09,Transport,Bus Fare,3.75,Presto
+2026-05-10,Food,Groceries,58.20,Debit
+2026-05-10,Personal,Skincare,22.99,Debit
+2026-05-11,Food,Burger,14.25,Debit
+2026-05-11,School,Textbook,65.00,Credit
+2026-05-12,Entertainment,Gaming,24.99,Credit
+2026-05-12,Food,Coffee,5.00,Cash
+2026-05-13,Transport,Gas,30.00,Debit
+2026-05-13,Food,Pasta,16.75,Debit
+2026-05-14,Food,Groceries,47.10,Debit
+2026-05-14,Personal,Gym,25.00,Debit
+2026-05-15,Entertainment,Movie Ticket,17.00,Credit
+2026-05-15,Food,Shawarma,13.00,Cash
+2026-05-16,Transport,Uber,21.00,Credit
+2026-05-16,Food,Coffee,4.50,Debit
+2026-05-17,School,Lab Supplies,18.50,Debit
+2026-05-17,Food,Pizza,19.99,Debit
+2026-05-18,Food,Groceries,61.20,Debit
+2026-05-18,Transport,Bus Fare,3.75,Presto
+2026-05-19,Entertainment,Concert,55.00,Credit
+2026-05-19,Food,Burger,12.99,Cash
+2026-05-20,Personal,Clothes,45.00,Debit
+2026-05-20,Food,Coffee,4.25,Cash
+2026-05-21,Transport,Gas,28.00,Debit
+2026-05-21,Food,Shawarma,12.50,Debit
+2026-05-22,School,Printing,9.50,Debit
+2026-05-22,Entertainment,Netflix,16.99,Credit
+2026-05-23,Food,Groceries,52.40,Debit
+2026-05-23,Transport,Uber,19.00,Credit
+2026-05-24,Food,Pizza,17.50,Debit
+2026-05-24,Personal,Supplements,35.00,Debit
+2026-05-25,Entertainment,Gaming,19.99,Credit
+2026-05-25,Food,Coffee,5.10,Cash
+2026-05-26,Transport,Bus Fare,3.75,Presto
+2026-05-26,Food,Burger,14.50,Debit
+2026-05-27,School,USB Drive,15.00,Debit
+2026-05-27,Food,Groceries,49.60,Debit
+2026-05-28,Personal,Laundry,8.00,Cash
+2026-05-28,Food,Shawarma,13.25,Debit
+2026-05-29,Entertainment,Movie Ticket,18.00,Credit
+2026-05-29,Transport,Gas,27.00,Debit
+2026-05-30,Food,Coffee,4.75,Cash
+2026-05-30,Food,Pizza,16.50,Debit
